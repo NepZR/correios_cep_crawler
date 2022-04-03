@@ -2,7 +2,7 @@
 
 #### Project made in the Software Testing classes on the Federal University of Western Para - Course: Computer Science.
 
-> Esta é a versão em Inglês deste LEIA-ME. Para acessar a versão em Português Brasileiro, por favor, clique <a>aqui</a>.
+> Esta é a versão em Inglês deste LEIA-ME. Para acessar a versão em Português Brasileiro, por favor, clique <a href="https://github.com/NepZR/correios_cep_crawler/blob/main/README.md">aqui</a>.
 ---
 
 

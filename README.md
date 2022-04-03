@@ -2,7 +2,7 @@
 
 #### Este é um projeto feito na disciplina de Teste e Qualidade de Software na Universidade Federal do Oeste do Pará - Curso de Bacharelado em Ciência da Computação.
 
-> This is the Portuguese Brazilian version of this README. To access the English version, please click <a>here</a>.
+> This is the Portuguese Brazilian version of this README. To access the English version, please click <a href="https://github.com/NepZR/correios_cep_crawler/blob/main/README_ENG.md">here</a>.
 ---
 
 
